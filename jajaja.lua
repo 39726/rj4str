@@ -20,3 +20,5 @@ local function Init()
         end
     end)
 end
+
+Init()
